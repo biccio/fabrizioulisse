@@ -132,7 +132,7 @@ body.page-template-page-fullsingle-split {
   .fs-split .split-image {
     width: 50%;
     height: 100vh;
-    background-image: url("../images/fabrizio_ulisse.jpg");
+    background-image: url("../images/fabrizio-ulisse.jpg");
     background-position: center center;
     background-size: cover; }
     @media (max-width: 800px) {

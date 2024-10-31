@@ -55,7 +55,7 @@ licensed = false
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Find me"
+      heading = ""
 
       [[params.links.list1.link]]
         text = "→ PRECISIONDOCS"
