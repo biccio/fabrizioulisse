@@ -59,7 +59,7 @@ licensed = false
 
       [[params.links.list1.link]]
         text = "→ PRECISIONDOCS"
-        url = "https://precisiondocs.netlify.app"
+        url = "https://precisiondocs.tech"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
