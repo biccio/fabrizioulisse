@@ -11,7 +11,7 @@ relativeURLs = true
 uglyURLs = true
 
 # Copyright
-copyright = "&copy;2024 Your Name"
+copyright = "&copy;2024 Fabrizio Ulisse"
 
 # Whether you purchased the license from the author.
 licensed = false
@@ -19,7 +19,7 @@ licensed = false
 [services]
   [services.googleAnalytics]
     # Enter your tracking code to enable Google Analytics
-    ID = ""
+    ID = "G-Z3VHM8HR72"
 
 [params]
 
