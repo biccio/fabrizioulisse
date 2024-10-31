@@ -33,6 +33,9 @@ licensed = false
   # Favicon
   favicon = "favicon.ico"
 
+[params.custom.css]
+  enable = true
+  
   # Section - Visual
   [params.visual]
   
