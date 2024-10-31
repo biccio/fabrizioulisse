@@ -1,6 +1,6 @@
 +++
 title = "Fabrizio Ulisse"
-tagline = "Tech writer. Gravel biker. Father"
+tagline = "Tech writer. Gravel biker. Father."
 +++
 
 
