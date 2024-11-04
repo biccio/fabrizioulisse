@@ -1,0 +1,17 @@
+[[redirects]]
+  force = true
+  from = "https://biccio.com"
+  status = 301
+  to = "https://fabrizioulisse.it"
+
+[[redirects]]
+  force = true
+  from = "https://biccio.com/*"
+  status = 301
+  to = "https://fabrizioulisse.it"
+
+[[redirects]]
+  force = true
+  from = "https://fabrizioulisse.netlify.app"
+  status = 301
+  to = "https://fabrizioulisse.it"
