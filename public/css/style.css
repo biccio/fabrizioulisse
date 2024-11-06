@@ -2,3 +2,15 @@
 	font-size:58px;
 	line-height: 60px;
 }
+
+
+.links a {
+	font-weight: 400;
+	font-family: "Montserrat";
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 40px;
+    letter-spacing: 0.4px;
+    color: #47bec7;
+}

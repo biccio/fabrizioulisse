@@ -1,12 +1,12 @@
 {
 	"version": 3,
 	"file": "split.css",
-	"sourceRoot": "/Users/fabrizio.ulisse/Documents/hugo/fabrizioulisse",
+	"sourceRoot": "/Users/fabrizio.ulisse/Documents/HUGO/fabrizioulisse",
 	"sources": [
 		"themes/hugo-split-theme/assets/scss/split.scss",
-		"../../hugo/fabrizioulisse/themes/hugo-split-theme/assets/scss/_reset.scss",
-		"../../hugo/fabrizioulisse/themes/hugo-split-theme/assets/scss/_fonts.scss",
-		"../../hugo/fabrizioulisse/themes/hugo-split-theme/assets/scss/_content.scss"
+		"themes/hugo-split-theme/assets/scss/_reset.scss",
+		"themes/hugo-split-theme/assets/scss/_fonts.scss",
+		"themes/hugo-split-theme/assets/scss/_content.scss"
 	],
 	"sourcesContent": [
 		"//-------------------------------------------------------------------------------\n// Variables\n//-------------------------------------------------------------------------------\n\n// Colors\n$color-background   : #061C30;\n$color-text         : #848d96;\n$color-link         : #848d96;\n$color-link-hover   : #CA486d;\n$color-maverick     : #47bec7;\n$color-tagline      : #CCCCCC;\n\n// Breakpoints\n$bp-smallish        : 1200px;\n$bp-tablet          : 800px;\n$bp-mobile          : 500px;\n\n// Image\n$image-background   : url('../images/fabrizio-ulisse.jpg');\n$image-position     : center center;\n\n// Animation\n$animation-name     : fadein;\n$animation-duration : 2s;\n\n//-------------------------------------------------------------------------------\n// Imports\n//-------------------------------------------------------------------------------\n\n@import \"reset\";\n@import \"fonts\";\n@import \"content\";\n",

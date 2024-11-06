@@ -16,6 +16,9 @@ copyright = "&copy;2024 Fabrizio Ulisse"
 # Whether you purchased the license from the author.
 licensed = false
 
+[markup.goldmark.renderer] 
+  unsafe= true
+  
 [services]
   [services.googleAnalytics]
     # Enter your tracking code to enable Google Analytics
@@ -56,31 +59,17 @@ licensed = false
   # Links
   #
   # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "MEET ME"
+  # [[params.links]]
+  #  [params.links.list1]
+  #    heading = "MEET ME"
 
-      [[params.links.list1.link]]
-        text = "→ PRECISIONDOCS"
-        url = "https://precisiondocs.tech"
-        new_tab = true # new tab
+  #    [[params.links.list1.link]]
+  #      text = "→ PRECISIONDOCS"
+  #      url = "https://precisiondocs.tech"
+  #      new_tab = true 
 
-      [[params.links.list1.link]]
-        text = "→ UNO E SESSANTACINQUE"
-        url = "https://unoesessantacinque.substack.com"
-        new_tab = false # Default, open at same tab
 
-      [[params.links.list1.link]]
-        text = "→ CICLOGRAVELISTA"
-        url = "https://ciclogravelista.com"
 
-      [[params.links.list1.link]]
-        text = "→ GITHUB"
-        url = "https://github.com/biccio"
-
-      [[params.links.list1.link]]
-        text = "→ LINKEDIN"
-        url = "https://linkedin.com/in/fabrizioulisse"
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
