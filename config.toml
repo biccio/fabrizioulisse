@@ -59,15 +59,49 @@ licensed = false
   # Links
   #
   # Links List #1
-  # [[params.links]]
-  #  [params.links.list1]
-  #    heading = "MEET ME"
+   [[params.links]]
+    [params.links.list1]
+      heading = "WRITINGS"
 
-  #    [[params.links.list1.link]]
-  #      text = "→ PRECISIONDOCS"
-  #      url = "https://precisiondocs.tech"
-  #      new_tab = true 
+      [[params.links.list1.link]]
+        text = "Tech Writing Blog"
+        url = "https://precisiondocs.tech"
+        new_tab = true 
 
+      [[params.links.list1.link]]
+        text = "Bike Travel Blog"
+        url = "https://ciclogravelista.com"
+        new_tab = true 
+
+      [[params.links.list1.link]]
+        text = "Personal Newsletter"
+        url = "https://unoesessantacinque.substack.com"
+        new_tab = true 
+
+# Links List #2
+   [[params.links]]
+    [params.links.list1]
+      heading = "SOCIAL"
+
+      [[params.links.list1.link]]
+        text = "Github"
+        url = "https://github.com/biccio"
+        new_tab = true 
+
+      [[params.links.list1.link]]
+        text = "Linkedin"
+        url = "https://linkedin.com/in/ulisse"
+        new_tab = true 
+
+      [[params.links.list1.link]]
+        text = "Instagram"
+        url = "https://instagram.com/biccio"
+        new_tab = true 
+
+      [[params.links.list1.link]]
+        text = "Spotify"
+        url = "https://open.spotify.com/user/1167647796"
+        new_tab = true 
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
