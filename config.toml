@@ -64,24 +64,24 @@ licensed = false
       heading = "WRITINGS"
 
       [[params.links.list1.link]]
-        text = "Tech Writing Blog"
+        text = "PrecisionDocs"
         url = "https://precisiondocs.tech"
         new_tab = true 
 
       [[params.links.list1.link]]
-        text = "Bike Travel Blog"
+        text = "Ciclogravelista"
         url = "https://ciclogravelista.com"
         new_tab = true 
 
       [[params.links.list1.link]]
-        text = "Personal Newsletter"
+        text = "Uno e Sessantacinque"
         url = "https://unoesessantacinque.substack.com"
         new_tab = true 
 
 # Links List #2
    [[params.links]]
     [params.links.list1]
-      heading = "SOCIAL"
+      heading = "PROFESSIONAL"
 
       [[params.links.list1.link]]
         text = "Github"
@@ -93,16 +93,32 @@ licensed = false
         url = "https://linkedin.com/in/ulisse"
         new_tab = true 
 
+
+
+# Links List #3
+   [[params.links]]
+    [params.links.list1]
+      heading = "SOCIAL"
+
       [[params.links.list1.link]]
         text = "Instagram"
         url = "https://instagram.com/biccio"
         new_tab = true 
 
       [[params.links.list1.link]]
+        text = "Mastodon"
+        url = "https://hachyderm.io/@biccio"
+        new_tab = true 
+
+      [[params.links.list1.link]]
+        text = "BlueSky"
+        url = "https://bsky.app/profile/biccio.bsky.social"
+        new_tab = true 
+
+      [[params.links.list1.link]]
         text = "Spotify"
         url = "https://open.spotify.com/user/1167647796"
         new_tab = true 
-
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
