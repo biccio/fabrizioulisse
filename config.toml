@@ -112,7 +112,7 @@ licensed = false
 
       [[params.links.list1.link]]
         text = "BlueSky"
-        url = "https://bsky.app/profile/biccio.bsky.social"
+        url = "https://bsky.app/profile/biccio.com"
         new_tab = true 
 
       [[params.links.list1.link]]
